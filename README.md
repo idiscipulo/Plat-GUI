@@ -1,4 +1,4 @@
-# Plat-GUI
+# PlatGUI
 
 ### Overview
 Plat-GUI is a device driver that I wrote to automate the electroplating of custom neural sensors. To handle the program output to the hardware I used PsychToolbox library. This code was written in 2015 as part of a research internship with UC Santa Cruz Institute of Particle Physics.
